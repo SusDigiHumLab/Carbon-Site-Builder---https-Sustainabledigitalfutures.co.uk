@@ -4,7 +4,7 @@ title: "Global Goals Experience"
 author: "SHLD"
 categories: Global
 tags: Global Goals Experience
-image: https://i.ibb.co/Vt7FKhV/Ferns-2.jpg
+image: https://i.ibb.co/TW6vyBR/Ferns-3.jpg
 ---
 
 
