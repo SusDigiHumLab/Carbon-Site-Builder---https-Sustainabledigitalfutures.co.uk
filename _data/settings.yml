@@ -12,9 +12,9 @@ menu:
 #- {name: 'Tailored',       url: 'Tailored'}
 #- {name: 'Documentation',      url: 'documentation'}
 - {name: 'About',              url: 'about'}
-- {name: 'Contact',            url: 'contact'}
 - {name: 'Our Toolkits',  url: 'Toolkits'}
 - {name: 'Our Partners',  url: 'Partners'}
+- {name: 'Contact',            url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
