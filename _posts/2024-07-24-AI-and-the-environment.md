@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AI and the Environment"
-author: "Sustainable Digital Futures"
+author: "SHLD"
 categories: AI
 tags: [AI and the Environment]
 image: https://i.ibb.co/D8bD5nv/game-1.jpg
