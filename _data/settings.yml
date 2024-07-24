@@ -7,9 +7,9 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'AI and the Environment',  url: 'AI'}
-- {name: 'Global Goals Experience', url: 'Global'}
-- {name: 'Tailored',       url: 'Tailored'}
+#- {name: 'AI and the Environment',  url: 'AI'}
+#- {name: 'Global Goals Experience', url: 'Global'}
+#- {name: 'Tailored',       url: 'Tailored'}
 #- {name: 'Documentation',      url: 'documentation'}
 - {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
