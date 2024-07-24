@@ -4,7 +4,7 @@ title: "Global Goals Experience"
 author: "SHLD"
 categories: Global
 tags: Global Goals Experience
-image: https://i.ibb.co/nLpr1zg/beans-and-boats.jpg
+image: https://drive.google.com/drive/folders/162dGbJNMQ1f9ke-Jnbjw22W2x1wDZHEe
 ---
 
 
