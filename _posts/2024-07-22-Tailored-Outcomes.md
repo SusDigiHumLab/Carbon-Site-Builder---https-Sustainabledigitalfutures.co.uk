@@ -3,7 +3,7 @@ layout: post
 title: "Tailored Outcomes"
 author: "SHLD"
 categories: Tailored 
-tags: [Tailored Outcomes]
+tags: [Tailored, News]
 image: https://i.ibb.co/Y2q0kZ1/image-2.jpg
 ---
 

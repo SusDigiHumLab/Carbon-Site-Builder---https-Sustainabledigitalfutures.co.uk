@@ -3,7 +3,7 @@ layout: post
 title: "Global Goals Experience"
 author: "SHLD"
 categories: Global
-tags: Global Goals Experience
+tags: [Global, News, AI]
 image: https://i.ibb.co/TW6vyBR/Ferns-3.jpg
 ---
 
