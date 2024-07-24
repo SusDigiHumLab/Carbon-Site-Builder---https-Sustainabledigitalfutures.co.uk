@@ -3,7 +3,7 @@ layout: post
 title: "AI and the Environment"
 author: "SHLD"
 categories: AI
-tags: [AI and the Environment]
+tags: [AI, News]
 image: https://i.ibb.co/D8bD5nv/game-1.jpg
 ---
 
