@@ -18,7 +18,7 @@ menu:
 
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
-#- {icon: 'envelope', link:   'mailto:j.c.walton@sussex.ac.uk'}
+- {icon: 'envelope', link:   'mailto:j.c.walton@sussex.ac.uk'}
 
 # Customize site text
 pagination:
