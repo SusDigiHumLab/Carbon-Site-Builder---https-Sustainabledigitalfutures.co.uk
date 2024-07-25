@@ -1,7 +1,7 @@
 
 ---
 layout: page
-title: AI and the Environment
+title: "AI and the Environment"
 permalink: /AI-Workshop
 author: SHL Digital
 

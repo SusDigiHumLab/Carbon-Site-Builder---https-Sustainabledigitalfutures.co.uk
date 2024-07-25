@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Our Partners
+title: "Our Partners"
 permalink: /Partners
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Global Goals Experience
+title: "Global Goals Experience"
 author: SHL Digital
 permalink: /Global-Goals-Experience
 
