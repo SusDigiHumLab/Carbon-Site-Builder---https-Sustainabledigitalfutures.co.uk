@@ -8,7 +8,6 @@ google-ID: 'UA-112060364-2'
 
 menu:
 - {name: 'AI Workshop',  url: 'AI-Workshop'}
-- {name: 'AI',  url: 'AI'}
 - {name: 'Global Goals Experience', url: 'Global-Goals-Experience'}
 - {name: 'Tailored',       url: 'Tailored-Outcomes'}
 - {name: 'What We Do',              url: 'What-We-Do'}
