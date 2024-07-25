@@ -7,10 +7,10 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
+- {name: 'What We Do',              url: 'What-We-Do'}
 - {name: 'AI Workshop',  url: 'AI-Workshop'}
 - {name: 'Global Goals Experience', url: 'Global-Goals-Experience'}
 - {name: 'Tailored',       url: 'Tailored-Outcomes'}
-- {name: 'What We Do',              url: 'What-We-Do'}
 - {name: 'Our Toolkits',  url: 'Toolkits'}
 - {name: 'Our Partners',  url: 'Partners'}
 - {name: 'Contact',            url: 'Contact'}
