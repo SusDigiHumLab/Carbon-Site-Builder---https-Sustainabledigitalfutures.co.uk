@@ -11,7 +11,7 @@ menu:
 - {name: 'Our Toolkits',  url: 'Toolkits'}
 - {name: 'AI Workshop',  url: 'AI-Workshop'}
 - {name: 'Global Goals Experience', url: 'Global-Goals-Experience'}
-- {name: 'Tailored',       url: 'Tailored-Outcomes'}
+- {name: 'Tailored Outcomes',       url: 'Tailored-Outcomes'}
 - {name: 'Our Partners',  url: 'Partners'}
 - {name: 'Contact',            url: 'Contact'}
 #- {name: 'Documentation',      url: 'Documentation'}
