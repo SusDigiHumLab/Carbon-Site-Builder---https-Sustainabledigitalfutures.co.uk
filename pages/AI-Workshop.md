@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AI and the Environment
+title: AI Workshop
 permalink: /AI-Workshop
 ---
 
