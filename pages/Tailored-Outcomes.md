@@ -2,6 +2,7 @@
 layout: page
 title: "Tailored Outcomes"
 author: "SHL Digital"
+permalink: /Tailored-Outcomes
 image: https://i.ibb.co/Y2q0kZ1/image-2.jpg
 ---
 
