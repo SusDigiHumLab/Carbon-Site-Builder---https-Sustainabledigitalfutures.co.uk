@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+title: What We Do
 permalink: /home
 ---
 **Climate Acuity** delivers meaningful change for sustainability, net zero, and climate risk management. Our training and strategy workshops are rooted in deep expertise in sustainability and serious play. We’re here to help you to break down complexity and create actionable strategies, in ways that are inspiring and exciting. **[Book a call](mailto:j.c.walton@sussex.ac.uk).**

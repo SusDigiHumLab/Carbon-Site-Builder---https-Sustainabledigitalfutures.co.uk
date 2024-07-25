@@ -7,14 +7,14 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-#- {name: 'AI and the Environment',  url: 'AI'}
-#- {name: 'Global Goals Experience', url: 'Global'}
-#- {name: 'Tailored',       url: 'Tailored'}
-#- {name: 'Documentation',      url: 'documentation'}
-- {name: 'Home',              url: 'home'}
+#- {name: 'AI and the Environment',  url: 'AI-Workshop'}
+#- {name: 'Global Goals Experience', url: 'Global-Goals-Experience'}
+#- {name: 'Tailored',       url: 'Tailored-Outcomes'}
+#- {name: 'Documentation',      url: 'Documentation'}
+- {name: 'What We Do',              url: 'What-We-Do'}
 - {name: 'Our Toolkits',  url: 'Toolkits'}
 - {name: 'Our Partners',  url: 'Partners'}
-- {name: 'Contact',            url: 'contact'}
+- {name: 'Contact',            url: 'Contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 #- {icon: 'envelope', link:   'mailto:j.c.walton@sussex.ac.uk'}
@@ -23,7 +23,5 @@ menu:
 pagination:
   next_page: 'Newer'
   previous_page: 'Older'
-
-related_posts: 'You may also enjoy...'
 
 #post_date_prefix: 'Written on'
