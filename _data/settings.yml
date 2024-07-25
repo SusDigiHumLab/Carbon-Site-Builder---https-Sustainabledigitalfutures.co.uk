@@ -11,26 +11,18 @@ menu:
 #- {name: 'Global Goals Experience', url: 'Global'}
 #- {name: 'Tailored',       url: 'Tailored'}
 #- {name: 'Documentation',      url: 'documentation'}
-- {name: 'About',              url: 'about'}
+- {name: 'Home',              url: 'home'}
 - {name: 'Our Toolkits',  url: 'Toolkits'}
 - {name: 'Our Partners',  url: 'Partners'}
 - {name: 'Contact',            url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
-social:
-#- {icon: 'twitter', link:    'https://twitter.com/paululele'}
-#- {icon: 'facebook', link:   'https://www.facebook.com/paululele'}
-#- {icon: 'instagram', link:  'https://instagram.com/paululele'}
-#- {icon: 'envelope', link:   'mailto:hello@paulle.ca'}
-#- {icon: 'rss-square', link: 'feed.xml'}
-# - {icon: 'rss-square', link: 'rss-feed.xml'}
+#- {icon: 'envelope', link:   'mailto:j.c.walton@sussex.ac.uk'}
 
 # Customize site text
 pagination:
   next_page: 'Newer'
   previous_page: 'Older'
-
-#sharing_button_prompt: 'Feel free to share!'
 
 related_posts: 'You may also enjoy...'
 
