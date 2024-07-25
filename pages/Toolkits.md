@@ -3,6 +3,7 @@ layout: page
 title: Our Toolkits
 permalink: /Toolkits
 ---
+
 **Climate Acuity** is rooted in impact-focused academic research. We want to be as transparent as we can about our evidence, tools, and methods. We open-source wherever possible. 
 
 Our **[Digital Sustainability Game](https://docs.google.com/presentation/d/1T08KqkOaDPCbWX5MuUuceSEbYffDygYGtyKxsM_txZs/edit)** is the core of our digital sustainability workshops. Get in touch if you'd like us to run a session. Or with a little preparation, you can can run the game within your organization, or deliver to external audiences. The game is open source under a permissive CC license, so you can even adapt it to create your own versions.
