@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Global Goals Experience
+title: "Global Goals Experience"
 permalink: /Global-Goals-Experience
 ---
 

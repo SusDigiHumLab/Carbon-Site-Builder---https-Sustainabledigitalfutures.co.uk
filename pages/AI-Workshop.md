@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AI Workshop
+title: "AI Workshop"
 permalink: /AI-Workshop
 ---
 

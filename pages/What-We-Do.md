@@ -1,6 +1,6 @@
 ---
 layout: page
-title: What We Do
+title: "What We Do"
 permalink: /What-We-Do
 ---
 
