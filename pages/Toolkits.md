@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Our Toolkits"
+title: Our Toolkits
 permalink: /Toolkits
 ---
 **Climate Acuity** is rooted in impact-focused academic research. We want to be as transparent as we can about our evidence, tools, and methods. We open-source wherever possible. 
