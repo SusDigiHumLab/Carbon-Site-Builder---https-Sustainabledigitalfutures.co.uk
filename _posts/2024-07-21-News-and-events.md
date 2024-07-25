@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "News and events"
-author: "SHLD"
+title: "The Cloud and the Climate"
+author: "SHL Digital"
 categories: News
 tags: [News, AI, Global, Tailored]
 image: https://i.ibb.co/ZzwqQG9/sky2.jpg
 ---
 
 
-Watch this space
+Check out the [exposure draft](https://docs.google.com/document/d/1dM0c4bRqS5seIMTt-Tb5HHPI6bPFxXiDTTqfT0bTInE/edit?usp=sharing) of the Executive Summary to our forthcoming report, working title *The Cloud and the Climate*.

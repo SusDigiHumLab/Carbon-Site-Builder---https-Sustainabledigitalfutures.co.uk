@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tailored Outcomes"
-author: "SHLD"
+author: "SHL Digital"
 categories: Tailored 
 tags: [Tailored, News]
 image: https://i.ibb.co/Y2q0kZ1/image-2.jpg

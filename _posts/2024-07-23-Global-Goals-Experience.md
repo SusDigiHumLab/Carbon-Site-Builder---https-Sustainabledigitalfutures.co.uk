@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Global Goals Experience"
-author: "SHLD"
+author: "SHL Digital"
 categories: Global
 tags: [Global, News, AI]
 image: https://i.ibb.co/TW6vyBR/Ferns-3.jpg
