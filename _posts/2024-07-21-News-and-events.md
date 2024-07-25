@@ -2,8 +2,6 @@
 layout: post
 title: "The Cloud and the Climate"
 author: "SHL Digital"
-categories: News
-tags: [News, AI, Global, Tailored]
 image: https://i.ibb.co/ZzwqQG9/sky2.jpg
 ---
 

@@ -89,7 +89,7 @@ dd {
 
 a {
   color: $brand-color;
-  text-decoration: none;
+  text-decoration: none !important;; 
 }
 
 /*
