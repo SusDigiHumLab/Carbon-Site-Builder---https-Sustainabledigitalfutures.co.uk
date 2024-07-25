@@ -1,13 +1,11 @@
 ---
-layout: post
+layout: page
 title: "Global Goals Experience"
 author: "SHL Digital"
 categories: Global
 tags: [Global, News, AI]
 image: https://i.ibb.co/TW6vyBR/Ferns-3.jpg
 ---
-
-
 
 Learn about the UN Global Goals and how they relate to your organization. Explore the biggest challenges facing the world today, and the lessons learned from progress so far. In this interactive experience, you and your team-mates will simulate what the next decade may hold.
 
