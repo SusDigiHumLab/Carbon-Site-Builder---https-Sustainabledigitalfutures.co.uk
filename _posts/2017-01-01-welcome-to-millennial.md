@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "Welcome to Millennial!"
 author: "Paul Le"
 categories: documentation

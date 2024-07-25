@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "Text Formatting"
 author: "Paul Le"
 categories: sample
