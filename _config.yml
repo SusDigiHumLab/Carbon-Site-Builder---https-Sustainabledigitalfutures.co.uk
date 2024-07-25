@@ -12,7 +12,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Climate Acuity"
 description:	       "low-carbon static website with green hosting"
-author:    "Jekyll, GitHub, Jamstacks and Fast Familiar"
+author:    "Jekyll GitHub Jamstacks and Fast Familiar"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
