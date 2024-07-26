@@ -8,9 +8,9 @@ permalink: /What-We-Do
 
 We believe that every organization — whatever your sector, whatever your size — deserves access to insight and inspiration to make change, at a level they can afford. If you are an SME or non-profit, you may be able to access our Community Tier.
 
-[AI and the Environment](AI-Workshop) | 
-[Global Goals Experience](Global-Goals-Experience) |
-[Tailored Outcomes](Tailored-Outcomes) |
+[**AI and the Environment**](AI-Workshop) | 
+[**Global Goals Experience**](Global-Goals-Experience) |
+[**Tailored Outcomes**](Tailored-Outcomes) |
 
 <img src="https://i.ibb.co/C8QdyfJ/Growing.jpg" alt="Bean seedlings growing" border="0">
 
