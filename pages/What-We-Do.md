@@ -12,8 +12,7 @@ We believe that every organization — whatever your sector, whatever your size 
 [**Global Goals Experience**](Global-Goals-Experience) |
 [**Tailored Outcomes**](Tailored-Outcomes) |
 
-<img src="https://i.ibb.co/C8QdyfJ/Growing.jpg" alt="Bean seedlings growing" border="0">
-
+![Bean seedlings growing](https://i.ibb.co/C8QdyfJ/Growing.jpg)
 
 
 

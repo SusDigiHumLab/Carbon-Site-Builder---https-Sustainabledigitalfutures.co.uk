@@ -8,7 +8,7 @@ permalink: /Toolkits
 
 Our **[Digital Sustainability Game](https://docs.google.com/presentation/d/1T08KqkOaDPCbWX5MuUuceSEbYffDygYGtyKxsM_txZs/edit)** is the core of our digital sustainability workshops. Get in touch if you'd like us to run a session. Or with a little preparation, you can can run the game within your organization, or deliver to external audiences. The game is open source under a permissive CC license, so you can even adapt it to create your own versions.
 
-<img src="https://i.ibb.co/vBjv8tB/Game-workshop-pic-1.jpg" alt="Game-workshop-pic-1" border="0">
+![Workshop](https://i.ibb.co/vBjv8tB/Game-workshop-pic-1.jpg)
 
 We have also contributed to the following:
 
