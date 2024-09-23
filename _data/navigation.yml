@@ -1,0 +1,12 @@
+- name: Home
+  link: /index
+- name: What we do
+  link: /about/
+- name: News and events
+  link: /blog/
+- name: Our toolkits
+  link: /Toolkits/
+- name: Our partners
+  link: /Partners/
+- name: Contact
+  link: /contact/
