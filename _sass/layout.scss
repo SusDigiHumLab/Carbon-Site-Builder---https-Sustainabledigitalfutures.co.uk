@@ -161,7 +161,8 @@ blockquote:before {
 }
 
 .learn-more {
-	left: 0;
+        position: absolute;	
+        left: 0;
 	bottom: 30px;
 	text-align: center;
 	font-size: 1.4em;
