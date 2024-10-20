@@ -18,3 +18,5 @@ Flo will focus on findings from the [Act Green report](https://www.indigo-ltd.co
 Kate will share tips for using websites to share sustainability-related actions.
 
 Sign up [here](https://us06web.zoom.us/webinar/register/WN_Wg2LEncOSwuvnGtIYVfuTQ#/registration)!
+
+<img src="https://ibb.co/rxPGgrW" alt="Digital Sustainability Card Game" border="0">
