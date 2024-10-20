@@ -32,7 +32,7 @@ table, th, td {
   </tr>
   <tr>
     <th scope="row">Community Tier</th>
-    <td><a href="https://nat17-hue.github.io/Carbon-Site-Builder---https-SustainableOfferProject/contact/">Get in touch</a></td>
+    <td><a href="https://susdigihumlab.github.io/Carbon-Site-Builder---https-Sustainabledigitalfutures.co.uk/contact/">Get in touch</a></td>
     <td>Discounts are available for community projects, non-profit organizations, and social enterprise. For organizations who would be otherwise unable to access this resource, we may even be able to deliver free of charge, according to availability</td>
   </tr>
   <tr>
