@@ -47,7 +47,7 @@ table, th, td {
   </tr>
  <tr>
     <th scope="row">Custom</th>
-    <td><a href="https://nat17-hue.github.io/Carbon-Site-Builder---https-SustainableOfferProject/contact/">Get in touch</a></td>
+    <td><a href="https://susdigihumlab.github.io/Carbon-Site-Builder---https-Sustainabledigitalfutures.co.uk/contact/">Get in touch</a></td>
     <td>Schedule a call to talk to us about your needs.</td>
   </tr>
 </table>
