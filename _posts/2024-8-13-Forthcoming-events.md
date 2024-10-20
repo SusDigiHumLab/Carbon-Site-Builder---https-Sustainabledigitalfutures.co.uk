@@ -6,6 +6,6 @@ image: <img src="https://i.ibb.co/2SD52Jb/sunrise.jpg" alt="sunrise" border="0">
 author_staff_member:
 ---
 
-<h1>Watch this space for more news and events </h1>
+Watch this space for more news and events
 
 <img src="https://i.ibb.co/2SD52Jb/sunrise.jpg" alt="sunrise" border="0">
