@@ -2,7 +2,7 @@
 title: Digital Sustainability Card Game taster on 24 October 2024
 date: 2024-10-20
 categories:
-image: <img src="https://ibb.co/rxPGgrW" alt="Digital Sustainability Card Game" border="0">
+image: <img src="https://i.ibb.co/jyKvdXp/focus-more.jpg" alt="focus-more" border="0">>
 author_staff_member:
 ---
 
@@ -19,4 +19,4 @@ Kate will share tips for using websites to share sustainability-related actions.
 
 Sign up [here](https://us06web.zoom.us/webinar/register/WN_Wg2LEncOSwuvnGtIYVfuTQ#/registration)!
 
-<img src="https://ibb.co/rxPGgrW" alt="Digital Sustainability Card Game" border="0">
+<<img src="https://i.ibb.co/jyKvdXp/focus-more.jpg" alt="focus-more" border="0">">
