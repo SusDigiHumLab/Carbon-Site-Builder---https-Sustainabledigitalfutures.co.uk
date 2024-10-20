@@ -6,7 +6,7 @@ image: <img src="https://ibb.co/rxPGgrW" alt="Digital Sustainability Card Game" 
 author_staff_member:
 ---
 
-Join us on **24 October 2024 from 1.30-2.30** for a brief demo & taster of the **[Digital Sustainability Card Game](https://drive.google.com/file/d/1VFoeZn7GrryuSp2gGgEWF4S6ALlhueNu/view)** as part of a **[Supercool session webinar](https://supercooldesign.co.uk/supercool-sessions)** on digital sustainability.
+Join us on 24 October 2024 from 1.30-2.30 for a brief demo & taster of the **[Digital Sustainability Card Game](https://drive.google.com/file/d/1VFoeZn7GrryuSp2gGgEWF4S6ALlhueNu/view)** as part of a **[Supercool session webinar](https://supercooldesign.co.uk/supercool-sessions)** on digital sustainability.
 
 [Kate Mroczkowski](https://supercooldesign.co.uk/team/kate) from Supercool, [Flo Carr](https://www.indigo-ltd.com/about) from Indigo and [Dr Nathalie Huegler](https://www.linkedin.com/in/dr-nathalie-huegler-a24937142/) from the University of Sussex Digital Humanities Lab will discuss and share practical tips about digital sustainability in the cultural sector. 
 
